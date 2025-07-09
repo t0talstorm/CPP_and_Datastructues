@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+// Name - Aditya Ishan Sinha 
+// PRN - 24070123006
+// Batch - EnTC - A1
+
 int main() {
     float n1 , n2 , add , sub , multi , divi ;
     cout <<"Enter First number: ";
